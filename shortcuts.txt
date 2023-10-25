@@ -1,0 +1,4 @@
+div.block would create 
+<div class="block">Float</div>
+
+"p*5>lorem15" would create 5 paragraphs with lorem15 in them

@@ -1,0 +1,8 @@
+block level elements have 100% width by default 
+you cant apply top  and bottom margin to an inline element 
+use display: inline-block for adding padding and margin to inline elements
+
+li are block level elements
+a hrefs or links a inline elements
+
+know more about box-sizing (like border box, flexbox etc)
